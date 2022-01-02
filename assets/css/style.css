@@ -1,0 +1,14 @@
+
+header {
+position: absolute;
+top:0;
+left:0;
+background-color: linear-gradient(blue, purple)
+}
+header h1 {
+    margin: 0;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}

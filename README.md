@@ -11,3 +11,8 @@ JavaScript
 Bootstrap grid layout
 jQuery
 git and Github
+
+Github repo:
+https://github.com/funnygeeky/weather-dashboard.git
+
+URL:

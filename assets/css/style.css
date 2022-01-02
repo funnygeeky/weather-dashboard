@@ -1,14 +1,38 @@
 
 header {
-position: absolute;
-top:0;
-left:0;
-background-color: linear-gradient(blue, purple)
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(45deg,blue, purple);
 }
-header h1 {
+h1 {
     margin: 0;
+    color:orange;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 html, body {
     margin: 0;
     padding: 0;
 }
+/* For smaller media devices */
+/* Media query to apply to screens 768px and below */
+@media screen and (max-width:768px), screen and (min-width: 575px) {
+    #city-search-form {
+        flex-flow: row wrap;
+    }
+
+}    .row {
+      height: auto;
+      margin-top: 20px;
+    }
+    .btn {
+      border: 0;
+      border-radius: 0.25rem;
+      height: 50px;
+    }
+  
+    textarea {
+      min-height: 85px;
+      border: 0;
+    }
+
+  

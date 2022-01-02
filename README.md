@@ -16,3 +16,4 @@ Github repo:
 https://github.com/funnygeeky/weather-dashboard.git
 
 URL:
+ https://funnygeeky.github.io/weather-dashboard/

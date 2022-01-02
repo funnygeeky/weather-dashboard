@@ -12,11 +12,15 @@ Bootstrap grid layout
 jQuery
 git and Github
 
-<<<<<<< HEAD
-=======
 Github repo:
 https://github.com/funnygeeky/weather-dashboard.git
 
 URL:
  https://funnygeeky.github.io/weather-dashboard/
->>>>>>> ff63fc121c3d8f1392c2169d1bbc3c287e6b3f1d
+
+ <a href="https://funnygeeky.github.io/weather-dashboard/">
+<img src="./assets/images/Weather.png" alt="Weather Dashboard" page title">
+</a>
+
+
+
